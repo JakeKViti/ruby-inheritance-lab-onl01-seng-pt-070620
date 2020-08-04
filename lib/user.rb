@@ -6,3 +6,5 @@ class User
     @fname = fname
     @lname = lname
 end
+
+end
